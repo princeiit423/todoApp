@@ -1,0 +1,47 @@
+body{
+    background-image:url(bgg.png);
+}
+h1{
+    font-size: larger;
+    margin:auto;
+    font-style: normal;
+    color: aliceblue;
+    margin-left: 48%;
+    margin-top:10px;
+    padding-bottom: 20px;
+    font-size: xx-large;
+    margin-top: 10px;
+}
+button{
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: lightblue;
+    color: black;
+}
+ul{
+    color: aliceblue;
+    padding-top: 20px;
+    margin-left: 10px;
+}
+.content{
+    margin-left: 43%;
+    padding-bottom: 15px;
+    font-size: larger;
+}
+.del{
+    border-radius: 4px;
+    background-color: lightblue;
+    color: black;
+    margin-bottom: 3px;
+}
+.fill{
+    font-size:xx-large;
+    margin-left: 10px;
+}
+.main{
+    margin-top: 10%;
+}
+button:hover{
+    background-color: plum;
+    color: black;
+}
