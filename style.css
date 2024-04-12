@@ -45,3 +45,23 @@ button:hover{
     background-color: plum;
     color: black;
 }
+input{
+    height: 30px;
+    width: 250px;
+    border-radius: 2px;
+    border-color: black;
+    text-align: center;
+    font-style: normal;
+    font-weight: 300;
+    font-weight: bold;
+    
+    color: black;
+}
+button .task{
+    height: 20px;
+}
+ul li{
+    color: black;
+    font-weight: 400;
+    font-size: larger;
+}
